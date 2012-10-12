@@ -8,7 +8,7 @@
 		</div>
 		
 		<div class="span8">
-			<h2 align="center">Heading</h2>
+			<h2 align="center">Headingg</h2>
 				<div id="tab1" align="left" style="width:500px;margin:auto;border:1px solid #eee;">
 							<h2 align="center">เพิ่มข้อมูล CPU</h2>
 				<form class="form-horizontal" id="addDataForm" method="POST" action="addDataCPU.php">
